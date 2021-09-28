@@ -220,4 +220,4 @@ async def on_ready():
     await haupt.send('Der Bot wünscht allen ein guten morgen')
 
 
-client.run('ODkxNjAwMDUxOTMwMDA5NjIx.YVAtQQ.8bdcpcWgtUM-ZDFsSrBfFcAYJJI')
+client.run('token')
